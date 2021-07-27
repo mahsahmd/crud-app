@@ -1,0 +1,50 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "msg": "json-server-1",
+      "date": "24 july 2021",
+      "tech": "mahsa ahmadpour"
+    },
+    {
+      "id": 2,
+      "msg": "hi",
+      "date": "24 july 2021",
+      "tech": "brad traversy"
+    },
+    {
+      "id": 3,
+      "msg": "json-server-1",
+      "date": "24 july 2021",
+      "tech": "mahsa ahmadpour"
+    },
+    {
+      "id": 4,
+      "msg": "hi",
+      "date": "24 july 2021",
+      "tech": "brad traversy"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "name": "mahsa",
+      "family": "hmd"
+    },
+    {
+      "id": 2,
+      "name": "jane",
+      "family": "doe"
+    },
+    {
+      "id": 3,
+      "name": "john",
+      "family": "doe"
+    },
+    {
+      "id": 4,
+      "name": "brad",
+      "family": "traversy"
+    }
+  ]
+}
